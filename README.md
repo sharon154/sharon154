@@ -1,5 +1,7 @@
 ## Hello👋 I'm Sharon !
 
+<img src="hi_dog.gif" alt="Hello!" width="150"/>
+
 <!--
 **sharon154/sharon154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning to build web applications using Java.
+- 🌱 ***I’m currently learning to build web applications using Java.***
 
 ### 🧰 Languages and Tools
 
