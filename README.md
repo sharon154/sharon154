@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 - 🌱 ***I’m currently learning to build web applications using Java.***
 
+<img align="right" src="codingpenguin.gif" alt="Coding!" width="350"/>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
