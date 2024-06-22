@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharon154&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sharon154&show_icons=true&locale=en&layout=compact)
 
 
 ### 📫 Connect with me
