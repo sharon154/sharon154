@@ -16,17 +16,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 ***I’m currently learning to build web applications using Java.***
+- 🌱 ***I’m currently learning to build web applications using MERN stack.***
 
 <img align="right" src="codingpenguin.gif" alt="Coding!" width="350"/>
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img align="left" alt="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+    <img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Oracle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 
@@ -42,6 +46,9 @@ Here are some ideas to get you started:
 &nbsp; &nbsp;
 <a href="mailto:sharonmas04@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="26px" alt="mail"></a> 
 &nbsp; &nbsp;
+<a href="https://linkedin.com/in/sharon-m-63396132a)">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="26px" alt="LinkedIn">
+</a>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sharon154&color=green)
