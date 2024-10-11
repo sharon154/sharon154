@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 &nbsp; &nbsp;
 <a href="mailto:sharonmas04@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="26px" alt="mail"></a> 
 &nbsp; &nbsp;
-<a href="https://linkedin.com/in/sharon-m-63396132a)">
+<a href="https://linkedin.com/in/sharon-m-63396132a">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="26px" alt="LinkedIn">
 </a>
 
