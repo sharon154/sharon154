@@ -1,6 +1,10 @@
-## Hello👋 I'm Sharon !
+<h1 align="center">
+    Hello👋 I'm Sharon !
+</h1>
 
-<img src="hi_dog.gif" alt="Hello!" width="150"/>
+<p align="center">
+    <img src="hi_dog.gif" alt="Hello!" width="150" />
+</p>
 
 <!--
 **sharon154/sharon154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 ***I’m currently learning to build web applications using MERN stack.***
+<br />
+
+- 🌱 ***I’m currently learning to build web applications using the MERN stack.***
+
+<br />
 
 <img align="right" src="codingpenguin.gif" alt="Coding!" width="350"/>
 
@@ -37,6 +45,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
+<br />
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sharon154&show_icons=true&locale=en&layout=compact)
 
