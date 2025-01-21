@@ -52,8 +52,6 @@ Here are some ideas to get you started:
 
 
 ### 📫 Connect with me
-<a href="https://instagram.com/sharrronn.4"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="26px" alt="Instagram"></a>
-&nbsp; &nbsp;
 <a href="mailto:sharonmas04@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="26px" alt="mail"></a> 
 &nbsp; &nbsp;
 <a href="https://linkedin.com/in/sharon-m-63396132a">
